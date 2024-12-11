@@ -18,7 +18,7 @@ export class UserInputComponent {
     console.log('submitted')
     console.log('this.enteredInitialInvestment: ', this.enteredInitialInvestment)
     console.log('this.enteredAnnualInvestment: ', this.enteredAnnualInvestment)
-    console.log('this.enteredExpectedReturn: ', this.enteredExpectedReturn)
+    console.log('this.enteredExpectedReturn:  ', this.enteredExpectedReturn)
     console.log('this.enteredDuration: ', this.enteredDuration)
   }
 }
